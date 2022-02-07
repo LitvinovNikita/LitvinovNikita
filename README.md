@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LitvinovNikita
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C#, HTML/CSS in the Conestoga College, Canada
+- 🌱 I’m currently learning C#, HTML/CSS, JS and data bases in the Conestoga College, Canada
 - 📫 You can reach me by this link www.linkedin.com/in/nikita-litvinov-5b9765218
 
 <!---
